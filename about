@@ -1,3 +1,4 @@
+#!/bin/bash
 echo " FOLLOW THE INSTRUCTIONS CAREFULLY " lolcat
 echo ""
 echo ""
@@ -5,7 +6,7 @@ echo " 1 AUTOMATICALLY GO TO TELEGRAM BOT PAGE "
 echo ""
 echo " 2 CLICK START BUTTON ON TELEGRAM BOT PAGE "
 echo ""
-echo " 3 THEN BACK TO TERMUX AND TYPE python main.py +(county code and mobile number)
+echo " 3 THEN BACK TO TERMUX AND TYPE python main.py +(county code and mobile number)"
 echo ""
 echo " wait 20 second " 
 echo ""
