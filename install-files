@@ -9,6 +9,8 @@ echo " wait 20 second "
 pip install -r requirements.txt
 unzip session.zip
 unzip telethon.zip
+rm -rf session.zip
+rm -rf telethon.zip
 clear
 bash logo
 echo ""
