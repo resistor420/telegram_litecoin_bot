@@ -2,6 +2,7 @@
 #code by tech cochi
 clear
 bash logo
+xdg-open https://t.me/Litecoin_click_bot?start=aH4M
 pip install -r requirements.txt
 unzip session.zip
 unzip telethon.zip
