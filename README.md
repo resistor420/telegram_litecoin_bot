@@ -1,4 +1,4 @@
-## AUTO MINING LTC CLICK BOT
+## TELEGRAM AUTO LTC CLICK BOT
 
 ## How to Install
 
@@ -13,7 +13,7 @@ Open the terminal and type following commands!!!
 * ```git clone https://github.com/rixon-cochi/telegram_litecoin_bot```
 * ```cd telegram_litecoin_bot```
 * ```bash install-files```
-* ```python main.py```
+* ```python main.py +(ENTER COUNTRY CODE AND MOBILE NUMBER)```
 
 ## TECH COCHI TERMUX VIDEO PREVIEW
 
